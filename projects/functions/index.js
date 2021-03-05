@@ -13,7 +13,7 @@
  Другими словами: функция должна возвращать в неизменном виде то, что поступает ей на вход
  */
 function returnFirstArgument(value) {
-  console.log(value);
+  console.log(value + 1);
 }
 
 /*
